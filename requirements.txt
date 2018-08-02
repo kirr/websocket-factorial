@@ -1,0 +1,1 @@
+-e git://github.com/dpallot/simple-websocket-server.git@34e6def93502943d426fb8bb01c6901341dd4fe6#egg=simple_websocket_server
